@@ -1,2 +1,2 @@
-# stacksmash
-How to avoid smashing the stack
+# stack overflow
+How to avoid overflowing the stack
